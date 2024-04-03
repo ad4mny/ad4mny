@@ -49,21 +49,13 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/adamzulkornain" target="_blank">
+  <a href="https://linkedin.com/in/adamzulkornain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="adamzulkornain00@gmail.com" target="_blank">
+  <a href="mailto:adamzulkornain00@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="klaustropik" target="_blank">
+  <a href="https://discord.com/channels/klaustropik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ad4mny/ad4mny/output/snake.svg" alt="Snake animation" />
-
-###
