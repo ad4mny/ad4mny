@@ -1,16 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adam and I'm a Full Stack Developer from Cyberjaya, Malaysia.</h2>
-
-###
-
-![](https://github-readme-stats.vercel.app/api?username=ad4mny&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ad4mny&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad4mny&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/8lcs1g.jpg"  />
-
-###
+<h2 align="left">Hello! My name is Adam and I'm a Full Stack Developer from Malaysia.</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
